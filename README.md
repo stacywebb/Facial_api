@@ -1,2 +1,2 @@
 # face_api
- Facial reconition for the browser using javascript and tensorflow.
+ Facial recognition for the browser using javascript and tensorflow.
